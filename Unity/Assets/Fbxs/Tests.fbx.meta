@@ -287,6 +287,65 @@ ModelImporter:
     100558: pasted__pSphere3 4
     100560: pasted__pSphere3 5
     100562: pasted__pSphere3 6
+    100564: group54
+    100566: group55
+    100568: group56
+    100570: pasted__pPlane1 1
+    100572: pasted__pPlane3
+    100574: pasted__pPlane4
+    100576: pPlane3
+    100578: pPlane4
+    100580: group57
+    100582: group58
+    100584: group59
+    100586: group60
+    100588: group61
+    100590: group62
+    100592: group63
+    100594: group64
+    100596: group65
+    100598: group66
+    100600: group67
+    100602: group68
+    100604: group69
+    100606: group70
+    100608: group71
+    100610: group72
+    100612: pasted__group57
+    100614: pasted__group66
+    100616: pasted__group66 1
+    100618: pasted__group68
+    100620: pasted__group68 1
+    100622: pasted__group68 2
+    100624: pasted__group70
+    100626: pasted__group71
+    100628: pasted__pasted__group66
+    100630: pasted__pasted__group66 1
+    100632: pasted__pasted__group66 2
+    100634: pasted__pasted__group68
+    100636: pasted__pasted__group68 1
+    100638: pasted__pasted__pasted__group66
+    100640: pasted__pasted__pasted__group66 1
+    100642: pasted__pasted__pasted__pasted__pCube17
+    100644: pasted__pasted__pasted__pasted__pCube17 1
+    100646: pasted__pasted__pasted__pCube17
+    100648: pasted__pasted__pasted__pCube17 1
+    100650: pasted__pasted__pasted__pCube17 2
+    100652: pasted__pasted__pCube16
+    100654: pasted__pasted__pCube17
+    100656: pasted__pCube16
+    100658: pasted__pCube16 1
+    100660: pasted__pCube17
+    100662: pasted__pCube17 1
+    100664: pasted__pCube17 2
+    100666: pasted__pCube17 3
+    100668: pasted__pCube17 4
+    100670: pasted__pCube17 5
+    100672: pasted__pCylinder5
+    100674: pasted__pCylinder5 1
+    100676: pCube16
+    100678: pCube17
+    100680: pCylinder5
     400000: pCylinder1
     400002: pPlane1
     400004: //RootNode
@@ -569,6 +628,65 @@ ModelImporter:
     400558: pasted__pSphere3 4
     400560: pasted__pSphere3 5
     400562: pasted__pSphere3 6
+    400564: group54
+    400566: group55
+    400568: group56
+    400570: pasted__pPlane1 1
+    400572: pasted__pPlane3
+    400574: pasted__pPlane4
+    400576: pPlane3
+    400578: pPlane4
+    400580: group57
+    400582: group58
+    400584: group59
+    400586: group60
+    400588: group61
+    400590: group62
+    400592: group63
+    400594: group64
+    400596: group65
+    400598: group66
+    400600: group67
+    400602: group68
+    400604: group69
+    400606: group70
+    400608: group71
+    400610: group72
+    400612: pasted__group57
+    400614: pasted__group66
+    400616: pasted__group66 1
+    400618: pasted__group68
+    400620: pasted__group68 1
+    400622: pasted__group68 2
+    400624: pasted__group70
+    400626: pasted__group71
+    400628: pasted__pasted__group66
+    400630: pasted__pasted__group66 1
+    400632: pasted__pasted__group66 2
+    400634: pasted__pasted__group68
+    400636: pasted__pasted__group68 1
+    400638: pasted__pasted__pasted__group66
+    400640: pasted__pasted__pasted__group66 1
+    400642: pasted__pasted__pasted__pasted__pCube17
+    400644: pasted__pasted__pasted__pasted__pCube17 1
+    400646: pasted__pasted__pasted__pCube17
+    400648: pasted__pasted__pasted__pCube17 1
+    400650: pasted__pasted__pasted__pCube17 2
+    400652: pasted__pasted__pCube16
+    400654: pasted__pasted__pCube17
+    400656: pasted__pCube16
+    400658: pasted__pCube16 1
+    400660: pasted__pCube17
+    400662: pasted__pCube17 1
+    400664: pasted__pCube17 2
+    400666: pasted__pCube17 3
+    400668: pasted__pCube17 4
+    400670: pasted__pCube17 5
+    400672: pasted__pCylinder5
+    400674: pasted__pCylinder5 1
+    400676: pCube16
+    400678: pCube17
+    400680: pCylinder5
     2300000: pCylinder1
     2300002: pPlane1
     2300004: pCube1
@@ -663,6 +781,30 @@ ModelImporter:
     2300182: pasted__pSphere3 4
     2300184: pasted__pSphere3 5
     2300186: pasted__pSphere3 6
+    2300188: pasted__pPlane3
+    2300190: pasted__pPlane4
+    2300192: pPlane3
+    2300194: pPlane4
+    2300196: pasted__pasted__pasted__pasted__pCube17
+    2300198: pasted__pasted__pasted__pasted__pCube17 1
+    2300200: pasted__pasted__pasted__pCube17
+    2300202: pasted__pasted__pasted__pCube17 1
+    2300204: pasted__pasted__pasted__pCube17 2
+    2300206: pasted__pasted__pCube16
+    2300208: pasted__pasted__pCube17
+    2300210: pasted__pCube16
+    2300212: pasted__pCube16 1
+    2300214: pasted__pCube17
+    2300216: pasted__pCube17 1
+    2300218: pasted__pCube17 2
+    2300220: pasted__pCube17 3
+    2300222: pasted__pCube17 4
+    2300224: pasted__pCube17 5
+    2300226: pasted__pCylinder5
+    2300228: pasted__pCylinder5 1
+    2300230: pCube16
+    2300232: pCube17
+    2300234: pCylinder5
     3300000: pCylinder1
     3300002: pPlane1
     3300004: pCube1
@@ -757,6 +899,30 @@ ModelImporter:
     3300182: pasted__pSphere3 4
     3300184: pasted__pSphere3 5
     3300186: pasted__pSphere3 6
+    3300188: pasted__pPlane3
+    3300190: pasted__pPlane4
+    3300192: pPlane3
+    3300194: pPlane4
+    3300196: pasted__pasted__pasted__pasted__pCube17
+    3300198: pasted__pasted__pasted__pasted__pCube17 1
+    3300200: pasted__pasted__pasted__pCube17
+    3300202: pasted__pasted__pasted__pCube17 1
+    3300204: pasted__pasted__pasted__pCube17 2
+    3300206: pasted__pasted__pCube16
+    3300208: pasted__pasted__pCube17
+    3300210: pasted__pCube16
+    3300212: pasted__pCube16 1
+    3300214: pasted__pCube17
+    3300216: pasted__pCube17 1
+    3300218: pasted__pCube17 2
+    3300220: pasted__pCube17 3
+    3300222: pasted__pCube17 4
+    3300224: pasted__pCube17 5
+    3300226: pasted__pCylinder5
+    3300228: pasted__pCylinder5 1
+    3300230: pCube16
+    3300232: pCube17
+    3300234: pCylinder5
     4300000: pPlane1
     4300002: pCylinder1
     4300004: pCube1
@@ -853,6 +1019,30 @@ ModelImporter:
     4300186: pasted__pSphere3
     4300188: pasted__pCylinder3
     4300190: pasted__pCylinder4
+    4300192: pPlane3
+    4300194: pasted__pPlane3
+    4300196: pPlane4
+    4300198: pasted__pPlane4
+    4300200: pCube16
+    4300202: pasted__pCube16
+    4300204: pCylinder5
+    4300206: pasted__pCylinder5
+    4300208: pasted__pCylinder5
+    4300210: pasted__pCube16
+    4300212: pasted__pasted__pCube16
+    4300214: pCube17
+    4300216: pasted__pCube17
+    4300218: pasted__pCube17
+    4300220: pasted__pCube17
+    4300222: pasted__pCube17
+    4300224: pasted__pCube17
+    4300226: pasted__pCube17
+    4300228: pasted__pasted__pCube17
+    4300230: pasted__pasted__pasted__pCube17
+    4300232: pasted__pasted__pasted__pCube17
+    4300234: pasted__pasted__pasted__pCube17
+    4300236: pasted__pasted__pasted__pasted__pCube17
+    4300238: pasted__pasted__pasted__pasted__pCube17
     9500000: //RootNode
     13700000: EthanBody
     13700002: EthanGlasses
