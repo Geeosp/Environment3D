@@ -1,0 +1,1753 @@
+fileFormatVersion: 2
+guid: 8a2c1a294001a6140af1b1b3ff6019fa
+timeCreated: 1455737726
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AUTOMATIC_SLIDING_DOOR_MB1:door
+    100002: AUTOMATIC_SLIDING_DOOR_MB1:leftDoor
+    100004: AUTOMATIC_SLIDING_DOOR_MB1:PHOTOCELL
+    100006: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle01
+    100008: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle02
+    100010: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle03
+    100012: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle04
+    100014: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle06
+    100016: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle07
+    100018: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle08
+    100020: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle09
+    100022: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle10
+    100024: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle11
+    100026: AUTOMATIC_SLIDING_DOOR_MB1:rightDoor
+    100028: d_model1:Group_001
+    100030: d_model1:Group_002
+    100032: d_model1:Group_003
+    100034: d_model1:Group_004
+    100036: d_model1:Group_005
+    100038: d_model1:Group_006
+    100040: d_model1:Group_007
+    100042: d_model1:Group_008
+    100044: d_model1:Group_009
+    100046: d_model1:Group_010
+    100048: d_model1:Group_011
+    100050: d_model1:Group_012
+    100052: d_model1:Group_013
+    100054: d_model1:Group_014
+    100056: d_model1:Group_015
+    100058: d_model1:Group_016
+    100060: d_model1:Group_017
+    100062: d_model1:Group_018
+    100064: d_model1:Group_019
+    100066: d_model2:Group_001
+    100068: d_model2:Group_002
+    100070: d_model2:Group_003
+    100072: d_model2:Group_004
+    100074: d_model2:Group_005
+    100076: d_model2:Group_006
+    100078: d_model2:Group_007
+    100080: d_model2:Group_008
+    100082: d_model2:Group_009
+    100084: d_model2:Group_010
+    100086: d_model2:Group_011
+    100088: d_model2:Group_012
+    100090: d_model2:Group_013
+    100092: d_model2:Group_014
+    100094: d_model2:Group_015
+    100096: d_model2:Group_016
+    100098: d_model2:Group_017
+    100100: d_model2:Group_018
+    100102: d_model2:Group_019
+    100104: d_model:Group_001
+    100106: d_model:Group_001 1
+    100108: d_model:Group_001 2
+    100110: d_model:Group_001 3
+    100112: d_model:Group_002
+    100114: d_model:Group_002 1
+    100116: d_model:Group_002 2
+    100118: d_model:Group_002 3
+    100120: d_model:Group_003
+    100122: d_model:Group_003 1
+    100124: d_model:Group_003 2
+    100126: d_model:Group_003 3
+    100128: d_model:Group_004
+    100130: d_model:Group_004 1
+    100132: d_model:Group_004 2
+    100134: d_model:Group_004 3
+    100136: d_model:Group_005
+    100138: d_model:Group_005 1
+    100140: d_model:Group_005 2
+    100142: d_model:Group_005 3
+    100144: d_model:Group_006
+    100146: d_model:Group_006 1
+    100148: d_model:Group_006 2
+    100150: d_model:Group_006 3
+    100152: d_model:Group_007
+    100154: d_model:Group_007 1
+    100156: d_model:Group_007 2
+    100158: d_model:Group_007 3
+    100160: d_model:Group_008
+    100162: d_model:Group_008 1
+    100164: d_model:Group_008 2
+    100166: d_model:Group_008 3
+    100168: d_model:Group_009
+    100170: d_model:Group_009 1
+    100172: d_model:Group_009 2
+    100174: d_model:Group_009 3
+    100176: d_model:Group_010
+    100178: d_model:Group_010 1
+    100180: d_model:Group_010 2
+    100182: d_model:Group_010 3
+    100184: d_model:Group_011
+    100186: d_model:Group_011 1
+    100188: d_model:Group_011 2
+    100190: d_model:Group_011 3
+    100192: d_model:Group_012
+    100194: d_model:Group_012 1
+    100196: d_model:Group_012 2
+    100198: d_model:Group_012 3
+    100200: d_model:Group_013
+    100202: d_model:Group_013 1
+    100204: d_model:Group_013 2
+    100206: d_model:Group_013 3
+    100208: d_model:Group_014
+    100210: d_model:Group_014 1
+    100212: d_model:Group_014 2
+    100214: d_model:Group_014 3
+    100216: d_model:Group_015
+    100218: d_model:Group_015 1
+    100220: d_model:Group_015 2
+    100222: d_model:Group_015 3
+    100224: d_model:Group_016
+    100226: d_model:Group_016 1
+    100228: d_model:Group_016 2
+    100230: d_model:Group_016 3
+    100232: d_model:Group_017
+    100234: d_model:Group_017 1
+    100236: d_model:Group_017 2
+    100238: d_model:Group_017 3
+    100240: d_model:Group_018
+    100242: d_model:Group_018 1
+    100244: d_model:Group_018 2
+    100246: d_model:Group_018 3
+    100248: d_model:Group_019
+    100250: d_model:Group_019 1
+    100252: d_model:Group_019 2
+    100254: d_model:Group_019 3
+    100256: door
+    100258: group21
+    100260: pasted__pasted__pCube3
+    100262: pasted__pasted__pCube5
+    100264: pasted__pasted__pCube6
+    100266: pasted__pasted__pCube7
+    100268: pasted__pCube3
+    100270: pasted__pCube5
+    100272: pasted__pCube6
+    100274: pasted__pCube6 1
+    100276: pCube1
+    100278: pCube3
+    100280: pCube4
+    100282: pCube5
+    100284: pCube6
+    100286: //RootNode
+    100288: shell1
+    100290: shell2
+    100292: shell3
+    100294: shell4
+    100296: transform10
+    100298: transform11
+    100300: transform12
+    100302: transform13
+    100304: transform14
+    100306: transform15
+    100308: transform16
+    100310: transform17
+    100312: transform18
+    100314: transform7
+    100316: transform8
+    100318: transform9
+    100320: window
+    100322: window1
+    100324: window2
+    100326: window3
+    100328: window4
+    100330: window5
+    100332: d_model:Group_001 10
+    100334: d_model:Group_001 11
+    100336: d_model:Group_001 12
+    100338: d_model:Group_001 13
+    100340: d_model:Group_001 4
+    100342: d_model:Group_001 5
+    100344: d_model:Group_001 6
+    100346: d_model:Group_001 7
+    100348: d_model:Group_001 8
+    100350: d_model:Group_001 9
+    100352: d_model:Group_002 10
+    100354: d_model:Group_002 11
+    100356: d_model:Group_002 12
+    100358: d_model:Group_002 13
+    100360: d_model:Group_002 4
+    100362: d_model:Group_002 5
+    100364: d_model:Group_002 6
+    100366: d_model:Group_002 7
+    100368: d_model:Group_002 8
+    100370: d_model:Group_002 9
+    100372: d_model:Group_003 10
+    100374: d_model:Group_003 11
+    100376: d_model:Group_003 12
+    100378: d_model:Group_003 13
+    100380: d_model:Group_003 4
+    100382: d_model:Group_003 5
+    100384: d_model:Group_003 6
+    100386: d_model:Group_003 7
+    100388: d_model:Group_003 8
+    100390: d_model:Group_003 9
+    100392: d_model:Group_004 10
+    100394: d_model:Group_004 11
+    100396: d_model:Group_004 12
+    100398: d_model:Group_004 13
+    100400: d_model:Group_004 4
+    100402: d_model:Group_004 5
+    100404: d_model:Group_004 6
+    100406: d_model:Group_004 7
+    100408: d_model:Group_004 8
+    100410: d_model:Group_004 9
+    100412: d_model:Group_005 10
+    100414: d_model:Group_005 11
+    100416: d_model:Group_005 12
+    100418: d_model:Group_005 13
+    100420: d_model:Group_005 4
+    100422: d_model:Group_005 5
+    100424: d_model:Group_005 6
+    100426: d_model:Group_005 7
+    100428: d_model:Group_005 8
+    100430: d_model:Group_005 9
+    100432: d_model:Group_006 10
+    100434: d_model:Group_006 11
+    100436: d_model:Group_006 12
+    100438: d_model:Group_006 13
+    100440: d_model:Group_006 4
+    100442: d_model:Group_006 5
+    100444: d_model:Group_006 6
+    100446: d_model:Group_006 7
+    100448: d_model:Group_006 8
+    100450: d_model:Group_006 9
+    100452: d_model:Group_007 10
+    100454: d_model:Group_007 11
+    100456: d_model:Group_007 12
+    100458: d_model:Group_007 13
+    100460: d_model:Group_007 4
+    100462: d_model:Group_007 5
+    100464: d_model:Group_007 6
+    100466: d_model:Group_007 7
+    100468: d_model:Group_007 8
+    100470: d_model:Group_007 9
+    100472: d_model:Group_008 10
+    100474: d_model:Group_008 11
+    100476: d_model:Group_008 12
+    100478: d_model:Group_008 13
+    100480: d_model:Group_008 4
+    100482: d_model:Group_008 5
+    100484: d_model:Group_008 6
+    100486: d_model:Group_008 7
+    100488: d_model:Group_008 8
+    100490: d_model:Group_008 9
+    100492: d_model:Group_009 10
+    100494: d_model:Group_009 11
+    100496: d_model:Group_009 12
+    100498: d_model:Group_009 13
+    100500: d_model:Group_009 4
+    100502: d_model:Group_009 5
+    100504: d_model:Group_009 6
+    100506: d_model:Group_009 7
+    100508: d_model:Group_009 8
+    100510: d_model:Group_009 9
+    100512: d_model:Group_010 10
+    100514: d_model:Group_010 11
+    100516: d_model:Group_010 12
+    100518: d_model:Group_010 13
+    100520: d_model:Group_010 4
+    100522: d_model:Group_010 5
+    100524: d_model:Group_010 6
+    100526: d_model:Group_010 7
+    100528: d_model:Group_010 8
+    100530: d_model:Group_010 9
+    100532: d_model:Group_011 10
+    100534: d_model:Group_011 11
+    100536: d_model:Group_011 12
+    100538: d_model:Group_011 13
+    100540: d_model:Group_011 4
+    100542: d_model:Group_011 5
+    100544: d_model:Group_011 6
+    100546: d_model:Group_011 7
+    100548: d_model:Group_011 8
+    100550: d_model:Group_011 9
+    100552: d_model:Group_012 10
+    100554: d_model:Group_012 11
+    100556: d_model:Group_012 12
+    100558: d_model:Group_012 13
+    100560: d_model:Group_012 4
+    100562: d_model:Group_012 5
+    100564: d_model:Group_012 6
+    100566: d_model:Group_012 7
+    100568: d_model:Group_012 8
+    100570: d_model:Group_012 9
+    100572: d_model:Group_013 10
+    100574: d_model:Group_013 11
+    100576: d_model:Group_013 12
+    100578: d_model:Group_013 13
+    100580: d_model:Group_013 4
+    100582: d_model:Group_013 5
+    100584: d_model:Group_013 6
+    100586: d_model:Group_013 7
+    100588: d_model:Group_013 8
+    100590: d_model:Group_013 9
+    100592: d_model:Group_014 10
+    100594: d_model:Group_014 11
+    100596: d_model:Group_014 12
+    100598: d_model:Group_014 13
+    100600: d_model:Group_014 4
+    100602: d_model:Group_014 5
+    100604: d_model:Group_014 6
+    100606: d_model:Group_014 7
+    100608: d_model:Group_014 8
+    100610: d_model:Group_014 9
+    100612: d_model:Group_015 10
+    100614: d_model:Group_015 11
+    100616: d_model:Group_015 12
+    100618: d_model:Group_015 13
+    100620: d_model:Group_015 4
+    100622: d_model:Group_015 5
+    100624: d_model:Group_015 6
+    100626: d_model:Group_015 7
+    100628: d_model:Group_015 8
+    100630: d_model:Group_015 9
+    100632: d_model:Group_016 10
+    100634: d_model:Group_016 11
+    100636: d_model:Group_016 12
+    100638: d_model:Group_016 13
+    100640: d_model:Group_016 4
+    100642: d_model:Group_016 5
+    100644: d_model:Group_016 6
+    100646: d_model:Group_016 7
+    100648: d_model:Group_016 8
+    100650: d_model:Group_016 9
+    100652: d_model:Group_017 10
+    100654: d_model:Group_017 11
+    100656: d_model:Group_017 12
+    100658: d_model:Group_017 13
+    100660: d_model:Group_017 4
+    100662: d_model:Group_017 5
+    100664: d_model:Group_017 6
+    100666: d_model:Group_017 7
+    100668: d_model:Group_017 8
+    100670: d_model:Group_017 9
+    100672: d_model:Group_018 10
+    100674: d_model:Group_018 11
+    100676: d_model:Group_018 12
+    100678: d_model:Group_018 13
+    100680: d_model:Group_018 4
+    100682: d_model:Group_018 5
+    100684: d_model:Group_018 6
+    100686: d_model:Group_018 7
+    100688: d_model:Group_018 8
+    100690: d_model:Group_018 9
+    100692: d_model:Group_019 10
+    100694: d_model:Group_019 11
+    100696: d_model:Group_019 12
+    100698: d_model:Group_019 13
+    100700: d_model:Group_019 4
+    100702: d_model:Group_019 5
+    100704: d_model:Group_019 6
+    100706: d_model:Group_019 7
+    100708: d_model:Group_019 8
+    100710: d_model:Group_019 9
+    100712: window10
+    100714: window11
+    100716: window12
+    100718: window13
+    100720: window14
+    100722: window15
+    100724: window6
+    100726: window7
+    100728: window8
+    100730: window9
+    400000: AUTOMATIC_SLIDING_DOOR_MB1:door
+    400002: AUTOMATIC_SLIDING_DOOR_MB1:leftDoor
+    400004: AUTOMATIC_SLIDING_DOOR_MB1:PHOTOCELL
+    400006: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle01
+    400008: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle02
+    400010: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle03
+    400012: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle04
+    400014: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle06
+    400016: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle07
+    400018: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle08
+    400020: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle09
+    400022: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle10
+    400024: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle11
+    400026: AUTOMATIC_SLIDING_DOOR_MB1:rightDoor
+    400028: d_model1:Group_001
+    400030: d_model1:Group_002
+    400032: d_model1:Group_003
+    400034: d_model1:Group_004
+    400036: d_model1:Group_005
+    400038: d_model1:Group_006
+    400040: d_model1:Group_007
+    400042: d_model1:Group_008
+    400044: d_model1:Group_009
+    400046: d_model1:Group_010
+    400048: d_model1:Group_011
+    400050: d_model1:Group_012
+    400052: d_model1:Group_013
+    400054: d_model1:Group_014
+    400056: d_model1:Group_015
+    400058: d_model1:Group_016
+    400060: d_model1:Group_017
+    400062: d_model1:Group_018
+    400064: d_model1:Group_019
+    400066: d_model2:Group_001
+    400068: d_model2:Group_002
+    400070: d_model2:Group_003
+    400072: d_model2:Group_004
+    400074: d_model2:Group_005
+    400076: d_model2:Group_006
+    400078: d_model2:Group_007
+    400080: d_model2:Group_008
+    400082: d_model2:Group_009
+    400084: d_model2:Group_010
+    400086: d_model2:Group_011
+    400088: d_model2:Group_012
+    400090: d_model2:Group_013
+    400092: d_model2:Group_014
+    400094: d_model2:Group_015
+    400096: d_model2:Group_016
+    400098: d_model2:Group_017
+    400100: d_model2:Group_018
+    400102: d_model2:Group_019
+    400104: d_model:Group_001
+    400106: d_model:Group_001 1
+    400108: d_model:Group_001 2
+    400110: d_model:Group_001 3
+    400112: d_model:Group_002
+    400114: d_model:Group_002 1
+    400116: d_model:Group_002 2
+    400118: d_model:Group_002 3
+    400120: d_model:Group_003
+    400122: d_model:Group_003 1
+    400124: d_model:Group_003 2
+    400126: d_model:Group_003 3
+    400128: d_model:Group_004
+    400130: d_model:Group_004 1
+    400132: d_model:Group_004 2
+    400134: d_model:Group_004 3
+    400136: d_model:Group_005
+    400138: d_model:Group_005 1
+    400140: d_model:Group_005 2
+    400142: d_model:Group_005 3
+    400144: d_model:Group_006
+    400146: d_model:Group_006 1
+    400148: d_model:Group_006 2
+    400150: d_model:Group_006 3
+    400152: d_model:Group_007
+    400154: d_model:Group_007 1
+    400156: d_model:Group_007 2
+    400158: d_model:Group_007 3
+    400160: d_model:Group_008
+    400162: d_model:Group_008 1
+    400164: d_model:Group_008 2
+    400166: d_model:Group_008 3
+    400168: d_model:Group_009
+    400170: d_model:Group_009 1
+    400172: d_model:Group_009 2
+    400174: d_model:Group_009 3
+    400176: d_model:Group_010
+    400178: d_model:Group_010 1
+    400180: d_model:Group_010 2
+    400182: d_model:Group_010 3
+    400184: d_model:Group_011
+    400186: d_model:Group_011 1
+    400188: d_model:Group_011 2
+    400190: d_model:Group_011 3
+    400192: d_model:Group_012
+    400194: d_model:Group_012 1
+    400196: d_model:Group_012 2
+    400198: d_model:Group_012 3
+    400200: d_model:Group_013
+    400202: d_model:Group_013 1
+    400204: d_model:Group_013 2
+    400206: d_model:Group_013 3
+    400208: d_model:Group_014
+    400210: d_model:Group_014 1
+    400212: d_model:Group_014 2
+    400214: d_model:Group_014 3
+    400216: d_model:Group_015
+    400218: d_model:Group_015 1
+    400220: d_model:Group_015 2
+    400222: d_model:Group_015 3
+    400224: d_model:Group_016
+    400226: d_model:Group_016 1
+    400228: d_model:Group_016 2
+    400230: d_model:Group_016 3
+    400232: d_model:Group_017
+    400234: d_model:Group_017 1
+    400236: d_model:Group_017 2
+    400238: d_model:Group_017 3
+    400240: d_model:Group_018
+    400242: d_model:Group_018 1
+    400244: d_model:Group_018 2
+    400246: d_model:Group_018 3
+    400248: d_model:Group_019
+    400250: d_model:Group_019 1
+    400252: d_model:Group_019 2
+    400254: d_model:Group_019 3
+    400256: door
+    400258: group21
+    400260: pasted__pasted__pCube3
+    400262: pasted__pasted__pCube5
+    400264: pasted__pasted__pCube6
+    400266: pasted__pasted__pCube7
+    400268: pasted__pCube3
+    400270: pasted__pCube5
+    400272: pasted__pCube6
+    400274: pasted__pCube6 1
+    400276: pCube1
+    400278: pCube3
+    400280: pCube4
+    400282: pCube5
+    400284: pCube6
+    400286: //RootNode
+    400288: shell1
+    400290: shell2
+    400292: shell3
+    400294: shell4
+    400296: transform10
+    400298: transform11
+    400300: transform12
+    400302: transform13
+    400304: transform14
+    400306: transform15
+    400308: transform16
+    400310: transform17
+    400312: transform18
+    400314: transform7
+    400316: transform8
+    400318: transform9
+    400320: window
+    400322: window1
+    400324: window2
+    400326: window3
+    400328: window4
+    400330: window5
+    400332: d_model:Group_001 10
+    400334: d_model:Group_001 11
+    400336: d_model:Group_001 12
+    400338: d_model:Group_001 13
+    400340: d_model:Group_001 4
+    400342: d_model:Group_001 5
+    400344: d_model:Group_001 6
+    400346: d_model:Group_001 7
+    400348: d_model:Group_001 8
+    400350: d_model:Group_001 9
+    400352: d_model:Group_002 10
+    400354: d_model:Group_002 11
+    400356: d_model:Group_002 12
+    400358: d_model:Group_002 13
+    400360: d_model:Group_002 4
+    400362: d_model:Group_002 5
+    400364: d_model:Group_002 6
+    400366: d_model:Group_002 7
+    400368: d_model:Group_002 8
+    400370: d_model:Group_002 9
+    400372: d_model:Group_003 10
+    400374: d_model:Group_003 11
+    400376: d_model:Group_003 12
+    400378: d_model:Group_003 13
+    400380: d_model:Group_003 4
+    400382: d_model:Group_003 5
+    400384: d_model:Group_003 6
+    400386: d_model:Group_003 7
+    400388: d_model:Group_003 8
+    400390: d_model:Group_003 9
+    400392: d_model:Group_004 10
+    400394: d_model:Group_004 11
+    400396: d_model:Group_004 12
+    400398: d_model:Group_004 13
+    400400: d_model:Group_004 4
+    400402: d_model:Group_004 5
+    400404: d_model:Group_004 6
+    400406: d_model:Group_004 7
+    400408: d_model:Group_004 8
+    400410: d_model:Group_004 9
+    400412: d_model:Group_005 10
+    400414: d_model:Group_005 11
+    400416: d_model:Group_005 12
+    400418: d_model:Group_005 13
+    400420: d_model:Group_005 4
+    400422: d_model:Group_005 5
+    400424: d_model:Group_005 6
+    400426: d_model:Group_005 7
+    400428: d_model:Group_005 8
+    400430: d_model:Group_005 9
+    400432: d_model:Group_006 10
+    400434: d_model:Group_006 11
+    400436: d_model:Group_006 12
+    400438: d_model:Group_006 13
+    400440: d_model:Group_006 4
+    400442: d_model:Group_006 5
+    400444: d_model:Group_006 6
+    400446: d_model:Group_006 7
+    400448: d_model:Group_006 8
+    400450: d_model:Group_006 9
+    400452: d_model:Group_007 10
+    400454: d_model:Group_007 11
+    400456: d_model:Group_007 12
+    400458: d_model:Group_007 13
+    400460: d_model:Group_007 4
+    400462: d_model:Group_007 5
+    400464: d_model:Group_007 6
+    400466: d_model:Group_007 7
+    400468: d_model:Group_007 8
+    400470: d_model:Group_007 9
+    400472: d_model:Group_008 10
+    400474: d_model:Group_008 11
+    400476: d_model:Group_008 12
+    400478: d_model:Group_008 13
+    400480: d_model:Group_008 4
+    400482: d_model:Group_008 5
+    400484: d_model:Group_008 6
+    400486: d_model:Group_008 7
+    400488: d_model:Group_008 8
+    400490: d_model:Group_008 9
+    400492: d_model:Group_009 10
+    400494: d_model:Group_009 11
+    400496: d_model:Group_009 12
+    400498: d_model:Group_009 13
+    400500: d_model:Group_009 4
+    400502: d_model:Group_009 5
+    400504: d_model:Group_009 6
+    400506: d_model:Group_009 7
+    400508: d_model:Group_009 8
+    400510: d_model:Group_009 9
+    400512: d_model:Group_010 10
+    400514: d_model:Group_010 11
+    400516: d_model:Group_010 12
+    400518: d_model:Group_010 13
+    400520: d_model:Group_010 4
+    400522: d_model:Group_010 5
+    400524: d_model:Group_010 6
+    400526: d_model:Group_010 7
+    400528: d_model:Group_010 8
+    400530: d_model:Group_010 9
+    400532: d_model:Group_011 10
+    400534: d_model:Group_011 11
+    400536: d_model:Group_011 12
+    400538: d_model:Group_011 13
+    400540: d_model:Group_011 4
+    400542: d_model:Group_011 5
+    400544: d_model:Group_011 6
+    400546: d_model:Group_011 7
+    400548: d_model:Group_011 8
+    400550: d_model:Group_011 9
+    400552: d_model:Group_012 10
+    400554: d_model:Group_012 11
+    400556: d_model:Group_012 12
+    400558: d_model:Group_012 13
+    400560: d_model:Group_012 4
+    400562: d_model:Group_012 5
+    400564: d_model:Group_012 6
+    400566: d_model:Group_012 7
+    400568: d_model:Group_012 8
+    400570: d_model:Group_012 9
+    400572: d_model:Group_013 10
+    400574: d_model:Group_013 11
+    400576: d_model:Group_013 12
+    400578: d_model:Group_013 13
+    400580: d_model:Group_013 4
+    400582: d_model:Group_013 5
+    400584: d_model:Group_013 6
+    400586: d_model:Group_013 7
+    400588: d_model:Group_013 8
+    400590: d_model:Group_013 9
+    400592: d_model:Group_014 10
+    400594: d_model:Group_014 11
+    400596: d_model:Group_014 12
+    400598: d_model:Group_014 13
+    400600: d_model:Group_014 4
+    400602: d_model:Group_014 5
+    400604: d_model:Group_014 6
+    400606: d_model:Group_014 7
+    400608: d_model:Group_014 8
+    400610: d_model:Group_014 9
+    400612: d_model:Group_015 10
+    400614: d_model:Group_015 11
+    400616: d_model:Group_015 12
+    400618: d_model:Group_015 13
+    400620: d_model:Group_015 4
+    400622: d_model:Group_015 5
+    400624: d_model:Group_015 6
+    400626: d_model:Group_015 7
+    400628: d_model:Group_015 8
+    400630: d_model:Group_015 9
+    400632: d_model:Group_016 10
+    400634: d_model:Group_016 11
+    400636: d_model:Group_016 12
+    400638: d_model:Group_016 13
+    400640: d_model:Group_016 4
+    400642: d_model:Group_016 5
+    400644: d_model:Group_016 6
+    400646: d_model:Group_016 7
+    400648: d_model:Group_016 8
+    400650: d_model:Group_016 9
+    400652: d_model:Group_017 10
+    400654: d_model:Group_017 11
+    400656: d_model:Group_017 12
+    400658: d_model:Group_017 13
+    400660: d_model:Group_017 4
+    400662: d_model:Group_017 5
+    400664: d_model:Group_017 6
+    400666: d_model:Group_017 7
+    400668: d_model:Group_017 8
+    400670: d_model:Group_017 9
+    400672: d_model:Group_018 10
+    400674: d_model:Group_018 11
+    400676: d_model:Group_018 12
+    400678: d_model:Group_018 13
+    400680: d_model:Group_018 4
+    400682: d_model:Group_018 5
+    400684: d_model:Group_018 6
+    400686: d_model:Group_018 7
+    400688: d_model:Group_018 8
+    400690: d_model:Group_018 9
+    400692: d_model:Group_019 10
+    400694: d_model:Group_019 11
+    400696: d_model:Group_019 12
+    400698: d_model:Group_019 13
+    400700: d_model:Group_019 4
+    400702: d_model:Group_019 5
+    400704: d_model:Group_019 6
+    400706: d_model:Group_019 7
+    400708: d_model:Group_019 8
+    400710: d_model:Group_019 9
+    400712: window10
+    400714: window11
+    400716: window12
+    400718: window13
+    400720: window14
+    400722: window15
+    400724: window6
+    400726: window7
+    400728: window8
+    400730: window9
+    2300000: AUTOMATIC_SLIDING_DOOR_MB1:PHOTOCELL
+    2300002: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle01
+    2300004: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle02
+    2300006: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle03
+    2300008: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle04
+    2300010: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle06
+    2300012: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle07
+    2300014: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle08
+    2300016: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle09
+    2300018: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle10
+    2300020: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle11
+    2300022: d_model1:Group_001
+    2300024: d_model1:Group_002
+    2300026: d_model1:Group_003
+    2300028: d_model1:Group_004
+    2300030: d_model1:Group_005
+    2300032: d_model1:Group_006
+    2300034: d_model1:Group_007
+    2300036: d_model1:Group_008
+    2300038: d_model1:Group_009
+    2300040: d_model1:Group_010
+    2300042: d_model1:Group_011
+    2300044: d_model1:Group_012
+    2300046: d_model1:Group_013
+    2300048: d_model1:Group_014
+    2300050: d_model1:Group_015
+    2300052: d_model1:Group_016
+    2300054: d_model1:Group_017
+    2300056: d_model1:Group_018
+    2300058: d_model1:Group_019
+    2300060: d_model2:Group_001
+    2300062: d_model2:Group_002
+    2300064: d_model2:Group_003
+    2300066: d_model2:Group_004
+    2300068: d_model2:Group_005
+    2300070: d_model2:Group_006
+    2300072: d_model2:Group_007
+    2300074: d_model2:Group_008
+    2300076: d_model2:Group_009
+    2300078: d_model2:Group_010
+    2300080: d_model2:Group_011
+    2300082: d_model2:Group_012
+    2300084: d_model2:Group_013
+    2300086: d_model2:Group_014
+    2300088: d_model2:Group_015
+    2300090: d_model2:Group_016
+    2300092: d_model2:Group_017
+    2300094: d_model2:Group_018
+    2300096: d_model2:Group_019
+    2300098: d_model:Group_001
+    2300100: d_model:Group_001 1
+    2300102: d_model:Group_001 2
+    2300104: d_model:Group_001 3
+    2300106: d_model:Group_002
+    2300108: d_model:Group_002 1
+    2300110: d_model:Group_002 2
+    2300112: d_model:Group_002 3
+    2300114: d_model:Group_003
+    2300116: d_model:Group_003 1
+    2300118: d_model:Group_003 2
+    2300120: d_model:Group_003 3
+    2300122: d_model:Group_004
+    2300124: d_model:Group_004 1
+    2300126: d_model:Group_004 2
+    2300128: d_model:Group_004 3
+    2300130: d_model:Group_005
+    2300132: d_model:Group_005 1
+    2300134: d_model:Group_005 2
+    2300136: d_model:Group_005 3
+    2300138: d_model:Group_006
+    2300140: d_model:Group_006 1
+    2300142: d_model:Group_006 2
+    2300144: d_model:Group_006 3
+    2300146: d_model:Group_007
+    2300148: d_model:Group_007 1
+    2300150: d_model:Group_007 2
+    2300152: d_model:Group_007 3
+    2300154: d_model:Group_008
+    2300156: d_model:Group_008 1
+    2300158: d_model:Group_008 2
+    2300160: d_model:Group_008 3
+    2300162: d_model:Group_009
+    2300164: d_model:Group_009 1
+    2300166: d_model:Group_009 2
+    2300168: d_model:Group_009 3
+    2300170: d_model:Group_010
+    2300172: d_model:Group_010 1
+    2300174: d_model:Group_010 2
+    2300176: d_model:Group_010 3
+    2300178: d_model:Group_011
+    2300180: d_model:Group_011 1
+    2300182: d_model:Group_011 2
+    2300184: d_model:Group_011 3
+    2300186: d_model:Group_012
+    2300188: d_model:Group_012 1
+    2300190: d_model:Group_012 2
+    2300192: d_model:Group_012 3
+    2300194: d_model:Group_013
+    2300196: d_model:Group_013 1
+    2300198: d_model:Group_013 2
+    2300200: d_model:Group_013 3
+    2300202: d_model:Group_014
+    2300204: d_model:Group_014 1
+    2300206: d_model:Group_014 2
+    2300208: d_model:Group_014 3
+    2300210: d_model:Group_015
+    2300212: d_model:Group_015 1
+    2300214: d_model:Group_015 2
+    2300216: d_model:Group_015 3
+    2300218: d_model:Group_016
+    2300220: d_model:Group_016 1
+    2300222: d_model:Group_016 2
+    2300224: d_model:Group_016 3
+    2300226: d_model:Group_017
+    2300228: d_model:Group_017 1
+    2300230: d_model:Group_017 2
+    2300232: d_model:Group_017 3
+    2300234: d_model:Group_018
+    2300236: d_model:Group_018 1
+    2300238: d_model:Group_018 2
+    2300240: d_model:Group_018 3
+    2300242: d_model:Group_019
+    2300244: d_model:Group_019 1
+    2300246: d_model:Group_019 2
+    2300248: d_model:Group_019 3
+    2300250: pCube6
+    2300252: d_model:Group_001 10
+    2300254: d_model:Group_001 11
+    2300256: d_model:Group_001 12
+    2300258: d_model:Group_001 13
+    2300260: d_model:Group_001 4
+    2300262: d_model:Group_001 5
+    2300264: d_model:Group_001 6
+    2300266: d_model:Group_001 7
+    2300268: d_model:Group_001 8
+    2300270: d_model:Group_001 9
+    2300272: d_model:Group_002 10
+    2300274: d_model:Group_002 11
+    2300276: d_model:Group_002 12
+    2300278: d_model:Group_002 13
+    2300280: d_model:Group_002 4
+    2300282: d_model:Group_002 5
+    2300284: d_model:Group_002 6
+    2300286: d_model:Group_002 7
+    2300288: d_model:Group_002 8
+    2300290: d_model:Group_002 9
+    2300292: d_model:Group_003 10
+    2300294: d_model:Group_003 11
+    2300296: d_model:Group_003 12
+    2300298: d_model:Group_003 13
+    2300300: d_model:Group_003 4
+    2300302: d_model:Group_003 5
+    2300304: d_model:Group_003 6
+    2300306: d_model:Group_003 7
+    2300308: d_model:Group_003 8
+    2300310: d_model:Group_003 9
+    2300312: d_model:Group_004 10
+    2300314: d_model:Group_004 11
+    2300316: d_model:Group_004 12
+    2300318: d_model:Group_004 13
+    2300320: d_model:Group_004 4
+    2300322: d_model:Group_004 5
+    2300324: d_model:Group_004 6
+    2300326: d_model:Group_004 7
+    2300328: d_model:Group_004 8
+    2300330: d_model:Group_004 9
+    2300332: d_model:Group_005 10
+    2300334: d_model:Group_005 11
+    2300336: d_model:Group_005 12
+    2300338: d_model:Group_005 13
+    2300340: d_model:Group_005 4
+    2300342: d_model:Group_005 5
+    2300344: d_model:Group_005 6
+    2300346: d_model:Group_005 7
+    2300348: d_model:Group_005 8
+    2300350: d_model:Group_005 9
+    2300352: d_model:Group_006 10
+    2300354: d_model:Group_006 11
+    2300356: d_model:Group_006 12
+    2300358: d_model:Group_006 13
+    2300360: d_model:Group_006 4
+    2300362: d_model:Group_006 5
+    2300364: d_model:Group_006 6
+    2300366: d_model:Group_006 7
+    2300368: d_model:Group_006 8
+    2300370: d_model:Group_006 9
+    2300372: d_model:Group_007 10
+    2300374: d_model:Group_007 11
+    2300376: d_model:Group_007 12
+    2300378: d_model:Group_007 13
+    2300380: d_model:Group_007 4
+    2300382: d_model:Group_007 5
+    2300384: d_model:Group_007 6
+    2300386: d_model:Group_007 7
+    2300388: d_model:Group_007 8
+    2300390: d_model:Group_007 9
+    2300392: d_model:Group_008 10
+    2300394: d_model:Group_008 11
+    2300396: d_model:Group_008 12
+    2300398: d_model:Group_008 13
+    2300400: d_model:Group_008 4
+    2300402: d_model:Group_008 5
+    2300404: d_model:Group_008 6
+    2300406: d_model:Group_008 7
+    2300408: d_model:Group_008 8
+    2300410: d_model:Group_008 9
+    2300412: d_model:Group_009 10
+    2300414: d_model:Group_009 11
+    2300416: d_model:Group_009 12
+    2300418: d_model:Group_009 13
+    2300420: d_model:Group_009 4
+    2300422: d_model:Group_009 5
+    2300424: d_model:Group_009 6
+    2300426: d_model:Group_009 7
+    2300428: d_model:Group_009 8
+    2300430: d_model:Group_009 9
+    2300432: d_model:Group_010 10
+    2300434: d_model:Group_010 11
+    2300436: d_model:Group_010 12
+    2300438: d_model:Group_010 13
+    2300440: d_model:Group_010 4
+    2300442: d_model:Group_010 5
+    2300444: d_model:Group_010 6
+    2300446: d_model:Group_010 7
+    2300448: d_model:Group_010 8
+    2300450: d_model:Group_010 9
+    2300452: d_model:Group_011 10
+    2300454: d_model:Group_011 11
+    2300456: d_model:Group_011 12
+    2300458: d_model:Group_011 13
+    2300460: d_model:Group_011 4
+    2300462: d_model:Group_011 5
+    2300464: d_model:Group_011 6
+    2300466: d_model:Group_011 7
+    2300468: d_model:Group_011 8
+    2300470: d_model:Group_011 9
+    2300472: d_model:Group_012 10
+    2300474: d_model:Group_012 11
+    2300476: d_model:Group_012 12
+    2300478: d_model:Group_012 13
+    2300480: d_model:Group_012 4
+    2300482: d_model:Group_012 5
+    2300484: d_model:Group_012 6
+    2300486: d_model:Group_012 7
+    2300488: d_model:Group_012 8
+    2300490: d_model:Group_012 9
+    2300492: d_model:Group_013 10
+    2300494: d_model:Group_013 11
+    2300496: d_model:Group_013 12
+    2300498: d_model:Group_013 13
+    2300500: d_model:Group_013 4
+    2300502: d_model:Group_013 5
+    2300504: d_model:Group_013 6
+    2300506: d_model:Group_013 7
+    2300508: d_model:Group_013 8
+    2300510: d_model:Group_013 9
+    2300512: d_model:Group_014 10
+    2300514: d_model:Group_014 11
+    2300516: d_model:Group_014 12
+    2300518: d_model:Group_014 13
+    2300520: d_model:Group_014 4
+    2300522: d_model:Group_014 5
+    2300524: d_model:Group_014 6
+    2300526: d_model:Group_014 7
+    2300528: d_model:Group_014 8
+    2300530: d_model:Group_014 9
+    2300532: d_model:Group_015 10
+    2300534: d_model:Group_015 11
+    2300536: d_model:Group_015 12
+    2300538: d_model:Group_015 13
+    2300540: d_model:Group_015 4
+    2300542: d_model:Group_015 5
+    2300544: d_model:Group_015 6
+    2300546: d_model:Group_015 7
+    2300548: d_model:Group_015 8
+    2300550: d_model:Group_015 9
+    2300552: d_model:Group_016 10
+    2300554: d_model:Group_016 11
+    2300556: d_model:Group_016 12
+    2300558: d_model:Group_016 13
+    2300560: d_model:Group_016 4
+    2300562: d_model:Group_016 5
+    2300564: d_model:Group_016 6
+    2300566: d_model:Group_016 7
+    2300568: d_model:Group_016 8
+    2300570: d_model:Group_016 9
+    2300572: d_model:Group_017 10
+    2300574: d_model:Group_017 11
+    2300576: d_model:Group_017 12
+    2300578: d_model:Group_017 13
+    2300580: d_model:Group_017 4
+    2300582: d_model:Group_017 5
+    2300584: d_model:Group_017 6
+    2300586: d_model:Group_017 7
+    2300588: d_model:Group_017 8
+    2300590: d_model:Group_017 9
+    2300592: d_model:Group_018 10
+    2300594: d_model:Group_018 11
+    2300596: d_model:Group_018 12
+    2300598: d_model:Group_018 13
+    2300600: d_model:Group_018 4
+    2300602: d_model:Group_018 5
+    2300604: d_model:Group_018 6
+    2300606: d_model:Group_018 7
+    2300608: d_model:Group_018 8
+    2300610: d_model:Group_018 9
+    2300612: d_model:Group_019 10
+    2300614: d_model:Group_019 11
+    2300616: d_model:Group_019 12
+    2300618: d_model:Group_019 13
+    2300620: d_model:Group_019 4
+    2300622: d_model:Group_019 5
+    2300624: d_model:Group_019 6
+    2300626: d_model:Group_019 7
+    2300628: d_model:Group_019 8
+    2300630: d_model:Group_019 9
+    3300000: AUTOMATIC_SLIDING_DOOR_MB1:PHOTOCELL
+    3300002: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle01
+    3300004: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle02
+    3300006: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle03
+    3300008: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle04
+    3300010: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle06
+    3300012: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle07
+    3300014: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle08
+    3300016: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle09
+    3300018: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle10
+    3300020: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle11
+    3300022: d_model1:Group_001
+    3300024: d_model1:Group_002
+    3300026: d_model1:Group_003
+    3300028: d_model1:Group_004
+    3300030: d_model1:Group_005
+    3300032: d_model1:Group_006
+    3300034: d_model1:Group_007
+    3300036: d_model1:Group_008
+    3300038: d_model1:Group_009
+    3300040: d_model1:Group_010
+    3300042: d_model1:Group_011
+    3300044: d_model1:Group_012
+    3300046: d_model1:Group_013
+    3300048: d_model1:Group_014
+    3300050: d_model1:Group_015
+    3300052: d_model1:Group_016
+    3300054: d_model1:Group_017
+    3300056: d_model1:Group_018
+    3300058: d_model1:Group_019
+    3300060: d_model2:Group_001
+    3300062: d_model2:Group_002
+    3300064: d_model2:Group_003
+    3300066: d_model2:Group_004
+    3300068: d_model2:Group_005
+    3300070: d_model2:Group_006
+    3300072: d_model2:Group_007
+    3300074: d_model2:Group_008
+    3300076: d_model2:Group_009
+    3300078: d_model2:Group_010
+    3300080: d_model2:Group_011
+    3300082: d_model2:Group_012
+    3300084: d_model2:Group_013
+    3300086: d_model2:Group_014
+    3300088: d_model2:Group_015
+    3300090: d_model2:Group_016
+    3300092: d_model2:Group_017
+    3300094: d_model2:Group_018
+    3300096: d_model2:Group_019
+    3300098: d_model:Group_001
+    3300100: d_model:Group_001 1
+    3300102: d_model:Group_001 2
+    3300104: d_model:Group_001 3
+    3300106: d_model:Group_002
+    3300108: d_model:Group_002 1
+    3300110: d_model:Group_002 2
+    3300112: d_model:Group_002 3
+    3300114: d_model:Group_003
+    3300116: d_model:Group_003 1
+    3300118: d_model:Group_003 2
+    3300120: d_model:Group_003 3
+    3300122: d_model:Group_004
+    3300124: d_model:Group_004 1
+    3300126: d_model:Group_004 2
+    3300128: d_model:Group_004 3
+    3300130: d_model:Group_005
+    3300132: d_model:Group_005 1
+    3300134: d_model:Group_005 2
+    3300136: d_model:Group_005 3
+    3300138: d_model:Group_006
+    3300140: d_model:Group_006 1
+    3300142: d_model:Group_006 2
+    3300144: d_model:Group_006 3
+    3300146: d_model:Group_007
+    3300148: d_model:Group_007 1
+    3300150: d_model:Group_007 2
+    3300152: d_model:Group_007 3
+    3300154: d_model:Group_008
+    3300156: d_model:Group_008 1
+    3300158: d_model:Group_008 2
+    3300160: d_model:Group_008 3
+    3300162: d_model:Group_009
+    3300164: d_model:Group_009 1
+    3300166: d_model:Group_009 2
+    3300168: d_model:Group_009 3
+    3300170: d_model:Group_010
+    3300172: d_model:Group_010 1
+    3300174: d_model:Group_010 2
+    3300176: d_model:Group_010 3
+    3300178: d_model:Group_011
+    3300180: d_model:Group_011 1
+    3300182: d_model:Group_011 2
+    3300184: d_model:Group_011 3
+    3300186: d_model:Group_012
+    3300188: d_model:Group_012 1
+    3300190: d_model:Group_012 2
+    3300192: d_model:Group_012 3
+    3300194: d_model:Group_013
+    3300196: d_model:Group_013 1
+    3300198: d_model:Group_013 2
+    3300200: d_model:Group_013 3
+    3300202: d_model:Group_014
+    3300204: d_model:Group_014 1
+    3300206: d_model:Group_014 2
+    3300208: d_model:Group_014 3
+    3300210: d_model:Group_015
+    3300212: d_model:Group_015 1
+    3300214: d_model:Group_015 2
+    3300216: d_model:Group_015 3
+    3300218: d_model:Group_016
+    3300220: d_model:Group_016 1
+    3300222: d_model:Group_016 2
+    3300224: d_model:Group_016 3
+    3300226: d_model:Group_017
+    3300228: d_model:Group_017 1
+    3300230: d_model:Group_017 2
+    3300232: d_model:Group_017 3
+    3300234: d_model:Group_018
+    3300236: d_model:Group_018 1
+    3300238: d_model:Group_018 2
+    3300240: d_model:Group_018 3
+    3300242: d_model:Group_019
+    3300244: d_model:Group_019 1
+    3300246: d_model:Group_019 2
+    3300248: d_model:Group_019 3
+    3300250: pCube6
+    3300252: d_model:Group_001 10
+    3300254: d_model:Group_001 11
+    3300256: d_model:Group_001 12
+    3300258: d_model:Group_001 13
+    3300260: d_model:Group_001 4
+    3300262: d_model:Group_001 5
+    3300264: d_model:Group_001 6
+    3300266: d_model:Group_001 7
+    3300268: d_model:Group_001 8
+    3300270: d_model:Group_001 9
+    3300272: d_model:Group_002 10
+    3300274: d_model:Group_002 11
+    3300276: d_model:Group_002 12
+    3300278: d_model:Group_002 13
+    3300280: d_model:Group_002 4
+    3300282: d_model:Group_002 5
+    3300284: d_model:Group_002 6
+    3300286: d_model:Group_002 7
+    3300288: d_model:Group_002 8
+    3300290: d_model:Group_002 9
+    3300292: d_model:Group_003 10
+    3300294: d_model:Group_003 11
+    3300296: d_model:Group_003 12
+    3300298: d_model:Group_003 13
+    3300300: d_model:Group_003 4
+    3300302: d_model:Group_003 5
+    3300304: d_model:Group_003 6
+    3300306: d_model:Group_003 7
+    3300308: d_model:Group_003 8
+    3300310: d_model:Group_003 9
+    3300312: d_model:Group_004 10
+    3300314: d_model:Group_004 11
+    3300316: d_model:Group_004 12
+    3300318: d_model:Group_004 13
+    3300320: d_model:Group_004 4
+    3300322: d_model:Group_004 5
+    3300324: d_model:Group_004 6
+    3300326: d_model:Group_004 7
+    3300328: d_model:Group_004 8
+    3300330: d_model:Group_004 9
+    3300332: d_model:Group_005 10
+    3300334: d_model:Group_005 11
+    3300336: d_model:Group_005 12
+    3300338: d_model:Group_005 13
+    3300340: d_model:Group_005 4
+    3300342: d_model:Group_005 5
+    3300344: d_model:Group_005 6
+    3300346: d_model:Group_005 7
+    3300348: d_model:Group_005 8
+    3300350: d_model:Group_005 9
+    3300352: d_model:Group_006 10
+    3300354: d_model:Group_006 11
+    3300356: d_model:Group_006 12
+    3300358: d_model:Group_006 13
+    3300360: d_model:Group_006 4
+    3300362: d_model:Group_006 5
+    3300364: d_model:Group_006 6
+    3300366: d_model:Group_006 7
+    3300368: d_model:Group_006 8
+    3300370: d_model:Group_006 9
+    3300372: d_model:Group_007 10
+    3300374: d_model:Group_007 11
+    3300376: d_model:Group_007 12
+    3300378: d_model:Group_007 13
+    3300380: d_model:Group_007 4
+    3300382: d_model:Group_007 5
+    3300384: d_model:Group_007 6
+    3300386: d_model:Group_007 7
+    3300388: d_model:Group_007 8
+    3300390: d_model:Group_007 9
+    3300392: d_model:Group_008 10
+    3300394: d_model:Group_008 11
+    3300396: d_model:Group_008 12
+    3300398: d_model:Group_008 13
+    3300400: d_model:Group_008 4
+    3300402: d_model:Group_008 5
+    3300404: d_model:Group_008 6
+    3300406: d_model:Group_008 7
+    3300408: d_model:Group_008 8
+    3300410: d_model:Group_008 9
+    3300412: d_model:Group_009 10
+    3300414: d_model:Group_009 11
+    3300416: d_model:Group_009 12
+    3300418: d_model:Group_009 13
+    3300420: d_model:Group_009 4
+    3300422: d_model:Group_009 5
+    3300424: d_model:Group_009 6
+    3300426: d_model:Group_009 7
+    3300428: d_model:Group_009 8
+    3300430: d_model:Group_009 9
+    3300432: d_model:Group_010 10
+    3300434: d_model:Group_010 11
+    3300436: d_model:Group_010 12
+    3300438: d_model:Group_010 13
+    3300440: d_model:Group_010 4
+    3300442: d_model:Group_010 5
+    3300444: d_model:Group_010 6
+    3300446: d_model:Group_010 7
+    3300448: d_model:Group_010 8
+    3300450: d_model:Group_010 9
+    3300452: d_model:Group_011 10
+    3300454: d_model:Group_011 11
+    3300456: d_model:Group_011 12
+    3300458: d_model:Group_011 13
+    3300460: d_model:Group_011 4
+    3300462: d_model:Group_011 5
+    3300464: d_model:Group_011 6
+    3300466: d_model:Group_011 7
+    3300468: d_model:Group_011 8
+    3300470: d_model:Group_011 9
+    3300472: d_model:Group_012 10
+    3300474: d_model:Group_012 11
+    3300476: d_model:Group_012 12
+    3300478: d_model:Group_012 13
+    3300480: d_model:Group_012 4
+    3300482: d_model:Group_012 5
+    3300484: d_model:Group_012 6
+    3300486: d_model:Group_012 7
+    3300488: d_model:Group_012 8
+    3300490: d_model:Group_012 9
+    3300492: d_model:Group_013 10
+    3300494: d_model:Group_013 11
+    3300496: d_model:Group_013 12
+    3300498: d_model:Group_013 13
+    3300500: d_model:Group_013 4
+    3300502: d_model:Group_013 5
+    3300504: d_model:Group_013 6
+    3300506: d_model:Group_013 7
+    3300508: d_model:Group_013 8
+    3300510: d_model:Group_013 9
+    3300512: d_model:Group_014 10
+    3300514: d_model:Group_014 11
+    3300516: d_model:Group_014 12
+    3300518: d_model:Group_014 13
+    3300520: d_model:Group_014 4
+    3300522: d_model:Group_014 5
+    3300524: d_model:Group_014 6
+    3300526: d_model:Group_014 7
+    3300528: d_model:Group_014 8
+    3300530: d_model:Group_014 9
+    3300532: d_model:Group_015 10
+    3300534: d_model:Group_015 11
+    3300536: d_model:Group_015 12
+    3300538: d_model:Group_015 13
+    3300540: d_model:Group_015 4
+    3300542: d_model:Group_015 5
+    3300544: d_model:Group_015 6
+    3300546: d_model:Group_015 7
+    3300548: d_model:Group_015 8
+    3300550: d_model:Group_015 9
+    3300552: d_model:Group_016 10
+    3300554: d_model:Group_016 11
+    3300556: d_model:Group_016 12
+    3300558: d_model:Group_016 13
+    3300560: d_model:Group_016 4
+    3300562: d_model:Group_016 5
+    3300564: d_model:Group_016 6
+    3300566: d_model:Group_016 7
+    3300568: d_model:Group_016 8
+    3300570: d_model:Group_016 9
+    3300572: d_model:Group_017 10
+    3300574: d_model:Group_017 11
+    3300576: d_model:Group_017 12
+    3300578: d_model:Group_017 13
+    3300580: d_model:Group_017 4
+    3300582: d_model:Group_017 5
+    3300584: d_model:Group_017 6
+    3300586: d_model:Group_017 7
+    3300588: d_model:Group_017 8
+    3300590: d_model:Group_017 9
+    3300592: d_model:Group_018 10
+    3300594: d_model:Group_018 11
+    3300596: d_model:Group_018 12
+    3300598: d_model:Group_018 13
+    3300600: d_model:Group_018 4
+    3300602: d_model:Group_018 5
+    3300604: d_model:Group_018 6
+    3300606: d_model:Group_018 7
+    3300608: d_model:Group_018 8
+    3300610: d_model:Group_018 9
+    3300612: d_model:Group_019 10
+    3300614: d_model:Group_019 11
+    3300616: d_model:Group_019 12
+    3300618: d_model:Group_019 13
+    3300620: d_model:Group_019 4
+    3300622: d_model:Group_019 5
+    3300624: d_model:Group_019 6
+    3300626: d_model:Group_019 7
+    3300628: d_model:Group_019 8
+    3300630: d_model:Group_019 9
+    4300000: AUTOMATIC_SLIDING_DOOR_MB1:PHOTOCELL
+    4300002: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle01
+    4300004: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle07
+    4300006: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle11
+    4300008: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle06
+    4300010: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle02
+    4300012: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle10
+    4300014: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle03
+    4300016: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle04
+    4300018: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle09
+    4300020: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle08
+    4300022: d_model:Group_019
+    4300024: d_model:Group_018
+    4300026: d_model:Group_017
+    4300028: d_model:Group_016
+    4300030: d_model:Group_015
+    4300032: d_model:Group_014
+    4300034: d_model:Group_013
+    4300036: d_model:Group_012
+    4300038: d_model:Group_011
+    4300040: d_model:Group_010
+    4300042: d_model:Group_009
+    4300044: d_model:Group_008
+    4300046: d_model:Group_007
+    4300048: d_model:Group_006
+    4300050: d_model:Group_005
+    4300052: d_model:Group_004
+    4300054: d_model:Group_003
+    4300056: d_model:Group_002
+    4300058: d_model:Group_001
+    4300060: pCube6
+    4300062: d_model1:Group_019
+    4300064: d_model1:Group_018
+    4300066: d_model1:Group_017
+    4300068: d_model1:Group_016
+    4300070: d_model1:Group_015
+    4300072: d_model1:Group_014
+    4300074: d_model1:Group_013
+    4300076: d_model1:Group_012
+    4300078: d_model1:Group_011
+    4300080: d_model1:Group_010
+    4300082: d_model1:Group_009
+    4300084: d_model1:Group_008
+    4300086: d_model1:Group_007
+    4300088: d_model1:Group_006
+    4300090: d_model1:Group_005
+    4300092: d_model1:Group_004
+    4300094: d_model1:Group_003
+    4300096: d_model1:Group_002
+    4300098: d_model1:Group_001
+    4300100: d_model2:Group_019
+    4300102: d_model2:Group_018
+    4300104: d_model2:Group_017
+    4300106: d_model2:Group_016
+    4300108: d_model2:Group_015
+    4300110: d_model2:Group_014
+    4300112: d_model2:Group_013
+    4300114: d_model2:Group_012
+    4300116: d_model2:Group_011
+    4300118: d_model2:Group_010
+    4300120: d_model2:Group_009
+    4300122: d_model2:Group_008
+    4300124: d_model2:Group_007
+    4300126: d_model2:Group_006
+    4300128: d_model2:Group_005
+    4300130: d_model2:Group_004
+    4300132: d_model2:Group_003
+    4300134: d_model2:Group_002
+    4300136: d_model2:Group_001
+    4300138: d_model:Group_019
+    4300140: d_model:Group_018
+    4300142: d_model:Group_017
+    4300144: d_model:Group_016
+    4300146: d_model:Group_015
+    4300148: d_model:Group_014
+    4300150: d_model:Group_013
+    4300152: d_model:Group_012
+    4300154: d_model:Group_011
+    4300156: d_model:Group_010
+    4300158: d_model:Group_009
+    4300160: d_model:Group_008
+    4300162: d_model:Group_007
+    4300164: d_model:Group_006
+    4300166: d_model:Group_005
+    4300168: d_model:Group_004
+    4300170: d_model:Group_003
+    4300172: d_model:Group_002
+    4300174: d_model:Group_001
+    4300176: d_model:Group_019
+    4300178: d_model:Group_018
+    4300180: d_model:Group_017
+    4300182: d_model:Group_016
+    4300184: d_model:Group_015
+    4300186: d_model:Group_014
+    4300188: d_model:Group_013
+    4300190: d_model:Group_012
+    4300192: d_model:Group_011
+    4300194: d_model:Group_010
+    4300196: d_model:Group_009
+    4300198: d_model:Group_008
+    4300200: d_model:Group_007
+    4300202: d_model:Group_006
+    4300204: d_model:Group_005
+    4300206: d_model:Group_004
+    4300208: d_model:Group_003
+    4300210: d_model:Group_002
+    4300212: d_model:Group_001
+    4300214: d_model:Group_019
+    4300216: d_model:Group_018
+    4300218: d_model:Group_017
+    4300220: d_model:Group_016
+    4300222: d_model:Group_015
+    4300224: d_model:Group_014
+    4300226: d_model:Group_013
+    4300228: d_model:Group_012
+    4300230: d_model:Group_011
+    4300232: d_model:Group_010
+    4300234: d_model:Group_009
+    4300236: d_model:Group_008
+    4300238: d_model:Group_007
+    4300240: d_model:Group_006
+    4300242: d_model:Group_005
+    4300244: d_model:Group_004
+    4300246: d_model:Group_003
+    4300248: d_model:Group_002
+    4300250: d_model:Group_001
+    4300252: d_model:Group_019
+    4300254: d_model:Group_018
+    4300256: d_model:Group_017
+    4300258: d_model:Group_016
+    4300260: d_model:Group_015
+    4300262: d_model:Group_014
+    4300264: d_model:Group_013
+    4300266: d_model:Group_012
+    4300268: d_model:Group_011
+    4300270: d_model:Group_010
+    4300272: d_model:Group_009
+    4300274: d_model:Group_008
+    4300276: d_model:Group_007
+    4300278: d_model:Group_006
+    4300280: d_model:Group_005
+    4300282: d_model:Group_004
+    4300284: d_model:Group_003
+    4300286: d_model:Group_002
+    4300288: d_model:Group_001
+    4300290: d_model:Group_019
+    4300292: d_model:Group_018
+    4300294: d_model:Group_017
+    4300296: d_model:Group_016
+    4300298: d_model:Group_015
+    4300300: d_model:Group_014
+    4300302: d_model:Group_013
+    4300304: d_model:Group_012
+    4300306: d_model:Group_011
+    4300308: d_model:Group_010
+    4300310: d_model:Group_009
+    4300312: d_model:Group_008
+    4300314: d_model:Group_007
+    4300316: d_model:Group_006
+    4300318: d_model:Group_005
+    4300320: d_model:Group_004
+    4300322: d_model:Group_003
+    4300324: d_model:Group_002
+    4300326: d_model:Group_001
+    4300328: d_model:Group_019
+    4300330: d_model:Group_018
+    4300332: d_model:Group_017
+    4300334: d_model:Group_016
+    4300336: d_model:Group_015
+    4300338: d_model:Group_014
+    4300340: d_model:Group_013
+    4300342: d_model:Group_012
+    4300344: d_model:Group_011
+    4300346: d_model:Group_010
+    4300348: d_model:Group_009
+    4300350: d_model:Group_008
+    4300352: d_model:Group_007
+    4300354: d_model:Group_006
+    4300356: d_model:Group_005
+    4300358: d_model:Group_004
+    4300360: d_model:Group_003
+    4300362: d_model:Group_002
+    4300364: d_model:Group_001
+    4300366: d_model:Group_019
+    4300368: d_model:Group_018
+    4300370: d_model:Group_017
+    4300372: d_model:Group_016
+    4300374: d_model:Group_015
+    4300376: d_model:Group_014
+    4300378: d_model:Group_013
+    4300380: d_model:Group_012
+    4300382: d_model:Group_011
+    4300384: d_model:Group_010
+    4300386: d_model:Group_009
+    4300388: d_model:Group_008
+    4300390: d_model:Group_007
+    4300392: d_model:Group_006
+    4300394: d_model:Group_005
+    4300396: d_model:Group_004
+    4300398: d_model:Group_003
+    4300400: d_model:Group_002
+    4300402: d_model:Group_001
+    4300404: d_model:Group_019
+    4300406: d_model:Group_018
+    4300408: d_model:Group_017
+    4300410: d_model:Group_016
+    4300412: d_model:Group_015
+    4300414: d_model:Group_014
+    4300416: d_model:Group_013
+    4300418: d_model:Group_012
+    4300420: d_model:Group_011
+    4300422: d_model:Group_010
+    4300424: d_model:Group_009
+    4300426: d_model:Group_008
+    4300428: d_model:Group_007
+    4300430: d_model:Group_006
+    4300432: d_model:Group_005
+    4300434: d_model:Group_004
+    4300436: d_model:Group_003
+    4300438: d_model:Group_002
+    4300440: d_model:Group_001
+    4300442: d_model:Group_019
+    4300444: d_model:Group_018
+    4300446: d_model:Group_017
+    4300448: d_model:Group_016
+    4300450: d_model:Group_015
+    4300452: d_model:Group_014
+    4300454: d_model:Group_013
+    4300456: d_model:Group_012
+    4300458: d_model:Group_011
+    4300460: d_model:Group_010
+    4300462: d_model:Group_009
+    4300464: d_model:Group_008
+    4300466: d_model:Group_007
+    4300468: d_model:Group_006
+    4300470: d_model:Group_005
+    4300472: d_model:Group_004
+    4300474: d_model:Group_003
+    4300476: d_model:Group_002
+    4300478: d_model:Group_001
+    4300480: d_model:Group_019
+    4300482: d_model:Group_018
+    4300484: d_model:Group_017
+    4300486: d_model:Group_016
+    4300488: d_model:Group_015
+    4300490: d_model:Group_014
+    4300492: d_model:Group_013
+    4300494: d_model:Group_012
+    4300496: d_model:Group_011
+    4300498: d_model:Group_010
+    4300500: d_model:Group_009
+    4300502: d_model:Group_008
+    4300504: d_model:Group_007
+    4300506: d_model:Group_006
+    4300508: d_model:Group_005
+    4300510: d_model:Group_004
+    4300512: d_model:Group_003
+    4300514: d_model:Group_002
+    4300516: d_model:Group_001
+    4300518: d_model:Group_019
+    4300520: d_model:Group_018
+    4300522: d_model:Group_017
+    4300524: d_model:Group_016
+    4300526: d_model:Group_015
+    4300528: d_model:Group_014
+    4300530: d_model:Group_013
+    4300532: d_model:Group_012
+    4300534: d_model:Group_011
+    4300536: d_model:Group_010
+    4300538: d_model:Group_009
+    4300540: d_model:Group_008
+    4300542: d_model:Group_007
+    4300544: d_model:Group_006
+    4300546: d_model:Group_005
+    4300548: d_model:Group_004
+    4300550: d_model:Group_003
+    4300552: d_model:Group_002
+    4300554: d_model:Group_001
+    4300556: d_model:Group_019
+    4300558: d_model:Group_018
+    4300560: d_model:Group_017
+    4300562: d_model:Group_016
+    4300564: d_model:Group_015
+    4300566: d_model:Group_014
+    4300568: d_model:Group_013
+    4300570: d_model:Group_012
+    4300572: d_model:Group_011
+    4300574: d_model:Group_010
+    4300576: d_model:Group_009
+    4300578: d_model:Group_008
+    4300580: d_model:Group_007
+    4300582: d_model:Group_006
+    4300584: d_model:Group_005
+    4300586: d_model:Group_004
+    4300588: d_model:Group_003
+    4300590: d_model:Group_002
+    4300592: d_model:Group_001
+    4300594: d_model:Group_019
+    4300596: d_model:Group_018
+    4300598: d_model:Group_017
+    4300600: d_model:Group_016
+    4300602: d_model:Group_015
+    4300604: d_model:Group_014
+    4300606: d_model:Group_013
+    4300608: d_model:Group_012
+    4300610: d_model:Group_011
+    4300612: d_model:Group_010
+    4300614: d_model:Group_009
+    4300616: d_model:Group_008
+    4300618: d_model:Group_007
+    4300620: d_model:Group_006
+    4300622: d_model:Group_005
+    4300624: d_model:Group_004
+    4300626: d_model:Group_003
+    4300628: d_model:Group_002
+    4300630: d_model:Group_001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
