@@ -2093,6 +2093,400 @@ ModelImporter:
     4300782: Esc-base17
     4300784: Line173
     4300786: Loft09
+    6400000: AUTOMATIC_SLIDING_DOOR_MB1:PHOTOCELL
+    6400002: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle01
+    6400004: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle02
+    6400006: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle03
+    6400008: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle04
+    6400010: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle06
+    6400012: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle07
+    6400014: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle08
+    6400016: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle09
+    6400018: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle10
+    6400020: AUTOMATIC_SLIDING_DOOR_MB1:Rectangle11
+    6400022: d_model:Group_001
+    6400024: d_model:Group_001 1
+    6400026: d_model:Group_001 10
+    6400028: d_model:Group_001 11
+    6400030: d_model:Group_001 12
+    6400032: d_model:Group_001 13
+    6400034: d_model:Group_001 14
+    6400036: d_model:Group_001 15
+    6400038: d_model:Group_001 2
+    6400040: d_model:Group_001 3
+    6400042: d_model:Group_001 4
+    6400044: d_model:Group_001 5
+    6400046: d_model:Group_001 6
+    6400048: d_model:Group_001 7
+    6400050: d_model:Group_001 8
+    6400052: d_model:Group_001 9
+    6400054: d_model:Group_002
+    6400056: d_model:Group_002 1
+    6400058: d_model:Group_002 10
+    6400060: d_model:Group_002 11
+    6400062: d_model:Group_002 12
+    6400064: d_model:Group_002 13
+    6400066: d_model:Group_002 14
+    6400068: d_model:Group_002 15
+    6400070: d_model:Group_002 2
+    6400072: d_model:Group_002 3
+    6400074: d_model:Group_002 4
+    6400076: d_model:Group_002 5
+    6400078: d_model:Group_002 6
+    6400080: d_model:Group_002 7
+    6400082: d_model:Group_002 8
+    6400084: d_model:Group_002 9
+    6400086: d_model:Group_003
+    6400088: d_model:Group_003 1
+    6400090: d_model:Group_003 10
+    6400092: d_model:Group_003 11
+    6400094: d_model:Group_003 12
+    6400096: d_model:Group_003 13
+    6400098: d_model:Group_003 14
+    6400100: d_model:Group_003 15
+    6400102: d_model:Group_003 2
+    6400104: d_model:Group_003 3
+    6400106: d_model:Group_003 4
+    6400108: d_model:Group_003 5
+    6400110: d_model:Group_003 6
+    6400112: d_model:Group_003 7
+    6400114: d_model:Group_003 8
+    6400116: d_model:Group_003 9
+    6400118: d_model:Group_004
+    6400120: d_model:Group_004 1
+    6400122: d_model:Group_004 10
+    6400124: d_model:Group_004 11
+    6400126: d_model:Group_004 12
+    6400128: d_model:Group_004 13
+    6400130: d_model:Group_004 14
+    6400132: d_model:Group_004 15
+    6400134: d_model:Group_004 2
+    6400136: d_model:Group_004 3
+    6400138: d_model:Group_004 4
+    6400140: d_model:Group_004 5
+    6400142: d_model:Group_004 6
+    6400144: d_model:Group_004 7
+    6400146: d_model:Group_004 8
+    6400148: d_model:Group_004 9
+    6400150: d_model:Group_005
+    6400152: d_model:Group_005 1
+    6400154: d_model:Group_005 10
+    6400156: d_model:Group_005 11
+    6400158: d_model:Group_005 12
+    6400160: d_model:Group_005 13
+    6400162: d_model:Group_005 14
+    6400164: d_model:Group_005 15
+    6400166: d_model:Group_005 2
+    6400168: d_model:Group_005 3
+    6400170: d_model:Group_005 4
+    6400172: d_model:Group_005 5
+    6400174: d_model:Group_005 6
+    6400176: d_model:Group_005 7
+    6400178: d_model:Group_005 8
+    6400180: d_model:Group_005 9
+    6400182: d_model:Group_006
+    6400184: d_model:Group_006 1
+    6400186: d_model:Group_006 10
+    6400188: d_model:Group_006 11
+    6400190: d_model:Group_006 12
+    6400192: d_model:Group_006 13
+    6400194: d_model:Group_006 14
+    6400196: d_model:Group_006 15
+    6400198: d_model:Group_006 2
+    6400200: d_model:Group_006 3
+    6400202: d_model:Group_006 4
+    6400204: d_model:Group_006 5
+    6400206: d_model:Group_006 6
+    6400208: d_model:Group_006 7
+    6400210: d_model:Group_006 8
+    6400212: d_model:Group_006 9
+    6400214: d_model:Group_007
+    6400216: d_model:Group_007 1
+    6400218: d_model:Group_007 10
+    6400220: d_model:Group_007 11
+    6400222: d_model:Group_007 12
+    6400224: d_model:Group_007 13
+    6400226: d_model:Group_007 14
+    6400228: d_model:Group_007 15
+    6400230: d_model:Group_007 2
+    6400232: d_model:Group_007 3
+    6400234: d_model:Group_007 4
+    6400236: d_model:Group_007 5
+    6400238: d_model:Group_007 6
+    6400240: d_model:Group_007 7
+    6400242: d_model:Group_007 8
+    6400244: d_model:Group_007 9
+    6400246: d_model:Group_008
+    6400248: d_model:Group_008 1
+    6400250: d_model:Group_008 10
+    6400252: d_model:Group_008 11
+    6400254: d_model:Group_008 12
+    6400256: d_model:Group_008 13
+    6400258: d_model:Group_008 14
+    6400260: d_model:Group_008 15
+    6400262: d_model:Group_008 2
+    6400264: d_model:Group_008 3
+    6400266: d_model:Group_008 4
+    6400268: d_model:Group_008 5
+    6400270: d_model:Group_008 6
+    6400272: d_model:Group_008 7
+    6400274: d_model:Group_008 8
+    6400276: d_model:Group_008 9
+    6400278: d_model:Group_009
+    6400280: d_model:Group_009 1
+    6400282: d_model:Group_009 10
+    6400284: d_model:Group_009 11
+    6400286: d_model:Group_009 12
+    6400288: d_model:Group_009 13
+    6400290: d_model:Group_009 14
+    6400292: d_model:Group_009 15
+    6400294: d_model:Group_009 2
+    6400296: d_model:Group_009 3
+    6400298: d_model:Group_009 4
+    6400300: d_model:Group_009 5
+    6400302: d_model:Group_009 6
+    6400304: d_model:Group_009 7
+    6400306: d_model:Group_009 8
+    6400308: d_model:Group_009 9
+    6400310: d_model:Group_010
+    6400312: d_model:Group_010 1
+    6400314: d_model:Group_010 10
+    6400316: d_model:Group_010 11
+    6400318: d_model:Group_010 12
+    6400320: d_model:Group_010 13
+    6400322: d_model:Group_010 14
+    6400324: d_model:Group_010 15
+    6400326: d_model:Group_010 2
+    6400328: d_model:Group_010 3
+    6400330: d_model:Group_010 4
+    6400332: d_model:Group_010 5
+    6400334: d_model:Group_010 6
+    6400336: d_model:Group_010 7
+    6400338: d_model:Group_010 8
+    6400340: d_model:Group_010 9
+    6400342: d_model:Group_011
+    6400344: d_model:Group_011 1
+    6400346: d_model:Group_011 10
+    6400348: d_model:Group_011 11
+    6400350: d_model:Group_011 12
+    6400352: d_model:Group_011 13
+    6400354: d_model:Group_011 14
+    6400356: d_model:Group_011 15
+    6400358: d_model:Group_011 2
+    6400360: d_model:Group_011 3
+    6400362: d_model:Group_011 4
+    6400364: d_model:Group_011 5
+    6400366: d_model:Group_011 6
+    6400368: d_model:Group_011 7
+    6400370: d_model:Group_011 8
+    6400372: d_model:Group_011 9
+    6400374: d_model:Group_012
+    6400376: d_model:Group_012 1
+    6400378: d_model:Group_012 10
+    6400380: d_model:Group_012 11
+    6400382: d_model:Group_012 12
+    6400384: d_model:Group_012 13
+    6400386: d_model:Group_012 14
+    6400388: d_model:Group_012 15
+    6400390: d_model:Group_012 2
+    6400392: d_model:Group_012 3
+    6400394: d_model:Group_012 4
+    6400396: d_model:Group_012 5
+    6400398: d_model:Group_012 6
+    6400400: d_model:Group_012 7
+    6400402: d_model:Group_012 8
+    6400404: d_model:Group_012 9
+    6400406: d_model:Group_013
+    6400408: d_model:Group_013 1
+    6400410: d_model:Group_013 10
+    6400412: d_model:Group_013 11
+    6400414: d_model:Group_013 12
+    6400416: d_model:Group_013 13
+    6400418: d_model:Group_013 14
+    6400420: d_model:Group_013 15
+    6400422: d_model:Group_013 2
+    6400424: d_model:Group_013 3
+    6400426: d_model:Group_013 4
+    6400428: d_model:Group_013 5
+    6400430: d_model:Group_013 6
+    6400432: d_model:Group_013 7
+    6400434: d_model:Group_013 8
+    6400436: d_model:Group_013 9
+    6400438: d_model:Group_014
+    6400440: d_model:Group_014 1
+    6400442: d_model:Group_014 10
+    6400444: d_model:Group_014 11
+    6400446: d_model:Group_014 12
+    6400448: d_model:Group_014 13
+    6400450: d_model:Group_014 14
+    6400452: d_model:Group_014 15
+    6400454: d_model:Group_014 2
+    6400456: d_model:Group_014 3
+    6400458: d_model:Group_014 4
+    6400460: d_model:Group_014 5
+    6400462: d_model:Group_014 6
+    6400464: d_model:Group_014 7
+    6400466: d_model:Group_014 8
+    6400468: d_model:Group_014 9
+    6400470: d_model:Group_015
+    6400472: d_model:Group_015 1
+    6400474: d_model:Group_015 10
+    6400476: d_model:Group_015 11
+    6400478: d_model:Group_015 12
+    6400480: d_model:Group_015 13
+    6400482: d_model:Group_015 14
+    6400484: d_model:Group_015 15
+    6400486: d_model:Group_015 2
+    6400488: d_model:Group_015 3
+    6400490: d_model:Group_015 4
+    6400492: d_model:Group_015 5
+    6400494: d_model:Group_015 6
+    6400496: d_model:Group_015 7
+    6400498: d_model:Group_015 8
+    6400500: d_model:Group_015 9
+    6400502: d_model:Group_016
+    6400504: d_model:Group_016 1
+    6400506: d_model:Group_016 10
+    6400508: d_model:Group_016 11
+    6400510: d_model:Group_016 12
+    6400512: d_model:Group_016 13
+    6400514: d_model:Group_016 14
+    6400516: d_model:Group_016 15
+    6400518: d_model:Group_016 2
+    6400520: d_model:Group_016 3
+    6400522: d_model:Group_016 4
+    6400524: d_model:Group_016 5
+    6400526: d_model:Group_016 6
+    6400528: d_model:Group_016 7
+    6400530: d_model:Group_016 8
+    6400532: d_model:Group_016 9
+    6400534: d_model:Group_017
+    6400536: d_model:Group_017 1
+    6400538: d_model:Group_017 10
+    6400540: d_model:Group_017 11
+    6400542: d_model:Group_017 12
+    6400544: d_model:Group_017 13
+    6400546: d_model:Group_017 14
+    6400548: d_model:Group_017 15
+    6400550: d_model:Group_017 2
+    6400552: d_model:Group_017 3
+    6400554: d_model:Group_017 4
+    6400556: d_model:Group_017 5
+    6400558: d_model:Group_017 6
+    6400560: d_model:Group_017 7
+    6400562: d_model:Group_017 8
+    6400564: d_model:Group_017 9
+    6400566: d_model:Group_018
+    6400568: d_model:Group_018 1
+    6400570: d_model:Group_018 10
+    6400572: d_model:Group_018 11
+    6400574: d_model:Group_018 12
+    6400576: d_model:Group_018 13
+    6400578: d_model:Group_018 14
+    6400580: d_model:Group_018 15
+    6400582: d_model:Group_018 2
+    6400584: d_model:Group_018 3
+    6400586: d_model:Group_018 4
+    6400588: d_model:Group_018 5
+    6400590: d_model:Group_018 6
+    6400592: d_model:Group_018 7
+    6400594: d_model:Group_018 8
+    6400596: d_model:Group_018 9
+    6400598: d_model:Group_019
+    6400600: d_model:Group_019 1
+    6400602: d_model:Group_019 10
+    6400604: d_model:Group_019 11
+    6400606: d_model:Group_019 12
+    6400608: d_model:Group_019 13
+    6400610: d_model:Group_019 14
+    6400612: d_model:Group_019 15
+    6400614: d_model:Group_019 2
+    6400616: d_model:Group_019 3
+    6400618: d_model:Group_019 4
+    6400620: d_model:Group_019 5
+    6400622: d_model:Group_019 6
+    6400624: d_model:Group_019 7
+    6400626: d_model:Group_019 8
+    6400628: d_model:Group_019 9
+    6400630: Esc-base15
+    6400632: Esc-base15 1
+    6400634: Esc-base16
+    6400636: Esc-base16 1
+    6400638: Esc-base17
+    6400640: Esc-base17 1
+    6400642: floor2
+    6400644: Line172
+    6400646: Line172 1
+    6400648: Line173
+    6400650: Line173 1
+    6400652: Loft08
+    6400654: Loft08 1
+    6400656: Loft09
+    6400658: Loft09 1
+    6400660: pCube6
+    6400662: pCube7
+    6400664: Step122
+    6400666: Step122 1
+    6400668: Step124
+    6400670: Step124 1
+    6400672: Step125
+    6400674: Step125 1
+    6400676: Step126
+    6400678: Step126 1
+    6400680: Step127
+    6400682: Step127 1
+    6400684: Step128
+    6400686: Step128 1
+    6400688: Step129
+    6400690: Step129 1
+    6400692: Step130
+    6400694: Step130 1
+    6400696: Step131
+    6400698: Step131 1
+    6400700: Step132
+    6400702: Step132 1
+    6400704: Step133
+    6400706: Step133 1
+    6400708: Step134
+    6400710: Step134 1
+    6400712: Step135
+    6400714: Step135 1
+    6400716: Step136
+    6400718: Step136 1
+    6400720: Step137
+    6400722: Step137 1
+    6400724: Step138
+    6400726: Step138 1
+    6400728: Step139
+    6400730: Step139 1
+    6400732: Step140
+    6400734: Step140 1
+    6400736: Step141
+    6400738: Step141 1
+    6400740: Step142
+    6400742: Step142 1
+    6400744: Step143
+    6400746: Step143 1
+    6400748: Step144
+    6400750: Step144 1
+    6400752: Step145
+    6400754: Step145 1
+    6400756: Step146
+    6400758: Step146 1
+    6400760: Step147
+    6400762: Step147 1
+    6400764: Step148
+    6400766: Step148 1
+    6400768: Step149
+    6400770: Step149 1
+    6400772: Step150
+    6400774: Step150 1
+    6400776: Step151
+    6400778: Step151 1
+    6400780: Step152
+    6400782: Step152 1
+    6400784: Step153
+    6400786: Step153 1
     7400000: Take 001
     9500000: //RootNode
   materials:
@@ -2119,9 +2513,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
-    meshCompression: 0
-    addColliders: 0
+    globalScale: 100
+    meshCompression: 3
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
